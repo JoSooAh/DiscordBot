@@ -134,4 +134,4 @@ async def WAYD(ctx):
 
 
 
-bot.run('MTA5MDA4OTE5NjIwMDM5NDgyMw.GiWGwl.oPUxk3rD2kkdDooTHh_UBNmjqVUdJJZ-lnsCpc')
+bot.run('Token')
