@@ -131,4 +131,4 @@ async def WAYD(ctx):
     await ctx.send(embed=embed)
 
 
-bot.run('MTA5MDA4OTE5NjIwMDM5NDgyMw.GS__mC.UA-TWQffLF6aR83zR6gYolNrhfwYdz4mIOAnEk')
+bot.run('Token')
